@@ -53,4 +53,6 @@ Messages sent by one client are broadcast to all others.
 
 ## 📸 Output Screenshot
 
+![Image](https://github.com/user-attachments/assets/0f9a422a-1e76-4ccf-a832-6f9d716e57f1)
+
 
